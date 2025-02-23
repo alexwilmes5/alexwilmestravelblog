@@ -26,10 +26,6 @@ body {
     background: #111111;
 }
 
-.upper-navigation #home-button{
-    float: left;
-}
-
 .upper-navigation #float-right{
     float: right;
 }
